@@ -4,11 +4,16 @@
 
 
 ## 🚀 Sobre mim
+
+<img align="right" src="https://forums.comunidades.riotgames.com/t5/image/serverpage/image-id/25880i009EC67669F04895?v=v2"/>
+
 * Sou desenvolvedor web full-stack
 * Meu primeiro contato com programação foi na empresa junior EJECT
 * Estou finalizando o Bootcamp da Driven Education 
 * Curso Ciencias e Tecnologia na UFRN
 * Gosto bastante de jogos principalmente TFT
+
+
 
 ## 🛠 Habilidades
 ### Linguagens
