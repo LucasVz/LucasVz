@@ -9,7 +9,7 @@
 
 * Sou desenvolvedor web full-stack
 * Meu primeiro contato com programação foi na empresa junior EJECT
-* Estou finalizando o Bootcamp da Driven Education 
+* Formado na Driven Education 
 * Curso Ciencias e Tecnologia na UFRN
 * Gosto bastante de jogos principalmente TFT
 
