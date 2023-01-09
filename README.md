@@ -10,7 +10,7 @@
 * Sou desenvolvedor web full-stack
 * Meu primeiro contato com programação foi na empresa junior EJECT
 * Formado na Driven Education 
-* Curso Ciencias e Tecnologia na UFRN
+* Curso Ciências e Tecnologia na UFRN
 * Gosto bastante de jogos principalmente TFT
 
 
