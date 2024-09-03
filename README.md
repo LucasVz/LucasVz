@@ -7,6 +7,7 @@
 
 
 * Sou desenvolvedor web full-stack
+* Trabalho na empresa SN Ambiental
 * Meu primeiro contato com programação foi na empresa junior EJECT
 * Formado na Driven Education 
 * Curso Ciências e Tecnologia na UFRN
